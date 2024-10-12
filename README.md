@@ -1,2 +1,2 @@
 # Hackomation
-An app that automates a hackintosh process and checks if your PC hardware are compatible with macOS natively and non-natively 
+Welcome to this Github page, Hackomation is current in WIP and it's Hardware compatability is being in research, **Make sure to be patient since the development may take a while!**
